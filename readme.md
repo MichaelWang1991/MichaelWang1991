@@ -3,7 +3,7 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-<p>I am a scientific content creator specializing in Data and AI at Nieuwmount Lab. I have been active in research since 2017, and throughout my career, I have consistently shared the latest trends in LLMs, as well as generative AI prompts for video and image creation. Additionally, I contribute to a Data Visualization and Machine Learning community of over 50,000 followers.
+<p>I am a scientific content creator specializing in Data and AI. I have been active in research since 2017, and throughout my career, I have consistently shared the latest trends in LLMs, as well as generative AI prompts for video and image creation. Additionally, I contribute to a Data Visualization and Machine Learning community of over 50,000 followers.
 
 <br>
 
@@ -38,7 +38,8 @@
     
 <br>
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWang1991&show_icons=true&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats-rust-eight-74.vercel.app/api?username=MichaelWang1991&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-rust-eight-74.vercel.app/api/top-langs/?username=MichaelWang1991&size_weight=0.5&count_weight=0.5)
 
 
 
