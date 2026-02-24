@@ -38,7 +38,7 @@
     
 <br>
 
-![Michael's GitHub stats](https://github-readme-stats-rust-eight-74.vercel.app/api?username=MichaelWang1991&show_icons=true&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats-rust-eight-74.vercel.app/api?username=MichaelWang1991&show_icons=true&include_all_commits=True&theme=react)
 ![Top Langs](https://github-readme-stats-rust-eight-74.vercel.app/api/top-langs/?username=MichaelWang1991&size_weight=0.5&count_weight=0.5)
 
 
