@@ -19,8 +19,8 @@
 ## 🛠️Tech Stack
 - 👩‍💻 Programming software
   
-    <img src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"
-    title="Python" width="5%" />
+    <img src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"
+    title="Python" width="6%" />
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="R"
     title="R" width="6%" />
     <img src="https://www.postgresql.org/media/img/about/press/slonik_with_black_text_and_tagline.gif" alt="postgresql"
